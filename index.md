@@ -6,9 +6,11 @@ After multiple roadblocks, we were able to start the initial sync with Parity Cl
 
 As a result, we decided to recreate a similar project, "Predicting Cryptocurrency Prices With Deep Learning" found [here](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/).
 
+Although this second source is not technically a "research paper," it is a good example of real world experience with deep learning. It is also extremely readable and requires very little technical roadblocks to setup.
 
 
-### Markdown
+
+### Summary of Original Paper
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
