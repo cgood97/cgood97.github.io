@@ -10,7 +10,7 @@ Although this second source is not technically a "research paper," it is a good 
 
 
 
-### Summary of Original Paper
+## Summary of Original Paper
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
