@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## BACKGROUND
 
-You can use the [editor on GitHub](https://github.com/cgood97/cgood97.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We first tried to recreate "Predicting digital asset market based on blockchain activity data" found at this URL: https://arxiv.org/pdf/1810.06696.pdf. After multiple roadblocks, we were able to start the initial sync with Parity Client. After 24 hours at full CPU usage, the inital sync was not even half complete. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a result, we decided to recreate a similar project, "Predicting Cryptocurrency Prices With Deep Learning" found at this URL: https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/.
+
+
 
 ### Markdown
 
