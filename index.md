@@ -1,8 +1,14 @@
 ## BACKGROUND
 
-We first tried to recreate "Predicting digital asset market based on blockchain activity data" found at this URL: https://arxiv.org/pdf/1810.06696.pdf. After multiple roadblocks, we were able to start the initial sync with Parity Client. After 24 hours at full CPU usage, the inital sync was not even half complete. 
+We first tried to recreate "Predicting digital asset market based on blockchain activity data" found at this URL: 
 
-As a result, we decided to recreate a similar project, "Predicting Cryptocurrency Prices With Deep Learning" found at this URL: https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/.
+https://arxiv.org/pdf/1810.06696.pdf. 
+
+After multiple roadblocks, we were able to start the initial sync with Parity Client. After 24 hours at full CPU usage, the inital sync was not even half complete. 
+
+As a result, we decided to recreate a similar project, "Predicting Cryptocurrency Prices With Deep Learning" found at this URL:
+
+https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/.
 
 
 
