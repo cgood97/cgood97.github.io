@@ -76,6 +76,17 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 
 ## Reflecting on Differences
 
+## Changing Aspect of Original Experiment
+Since this experiment was trained on data that happened before the cryptocurrency rise and fall of late 2017 and early 2018, we decided that it would be beneficial to split the data after the crash. We chose 08-01-2018 to split the data on. We chose this specific data since there was a lot of fluctation after the crash and it started to stabilize more around this time. Also, this experiment made it easy to change the split date.
+
+## Results of Modified Experiment
+Instead of including every chart like above, we chose the most relevant charts to show differences from the original experiment.
+
+<p align="left">
+  <img src="https://imgbb.com/"><img src="https://i.ibb.co/dcVy8VL/MAECharts.png">
+</p>
+
+
 ```markdown
 Syntax highlighted code block
 
