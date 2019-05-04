@@ -83,7 +83,7 @@ Since this experiment was trained on data that happened before the cryptocurrenc
 Instead of including every chart like above, we chose the most relevant charts to show differences from the original experiment.
 
 <p align="left">
-  <img src="https://imgbb.com/"><img src="https://i.ibb.co/dcVy8VL/MAECharts.png">
+  <img src="https://imgbb.com/"><img src="https://i.ibb.co/ngnSPwQ/Training-Testing-Set-Final.png">
 </p>
 
 
