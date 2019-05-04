@@ -75,6 +75,7 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 7. Axis titles and formatting were different from original experiment.
 
 ## Reflecting on Differences
+Since there is more testing data (which includes the crash), there is more for the models to validate against. This can cause a better accuracy on testing due to the new fluctation in the test data. Having more testing data also gives formatting problems due to so many titles on the x-axis.
 
 ## Changing Aspect of Original Experiment
 Since this experiment was trained on data that happened before the cryptocurrency rise and fall of late 2017 and early 2018, we decided that it would be beneficial to split the data after the crash. We chose 08-01-2018 to split the data on. We chose this specific data since there was a lot of fluctation after the crash and it started to stabilize more around this time. Also, this experiment made it easy to change the split date.
@@ -100,6 +101,11 @@ Instead of including every chart like above, we chose the most relevant charts t
 <p align="left">
   <img src="https://i.ibb.co/16QPBr2/MAECharts-Final.png">
 </p>
+
+## Explanations of Result of Modified Experiment
+
+## Other Modifications and Results
+
 
 
 
