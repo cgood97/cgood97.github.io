@@ -102,7 +102,7 @@ Instead of including every chart like above, we chose the most relevant charts t
   <img src="https://i.ibb.co/16QPBr2/MAECharts-Final.png">
 </p>
 
-## Explanations of Result of Modified Experiment
+## Explanation of Modified Experiment Result
 
 ## Other Modifications and Results
 
