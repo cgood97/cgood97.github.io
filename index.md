@@ -72,8 +72,10 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 4. Training and Testing Single Timepoint Prediction MAE's for Bitcoin were lower (more accurate).
 5. The 5 Timepoint Predictions seemed more accurate, especially for Ethereum.
 6. Bitcoin and Ethereum 25 Test Set Runs had lower MAE's (more accurate).
+7. Axis titles and formatting were different from original experiment.
 
 ## Reflecting on Differences
+
 ```markdown
 Syntax highlighted code block
 
