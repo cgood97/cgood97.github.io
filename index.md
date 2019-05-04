@@ -29,7 +29,7 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 
 ## Results of Original Experiment
 <p align="center">
-  ![Image](https://i.ibb.co/TtfxxwZ/Training-Testing-Set.png)
+  <img src="https://i.ibb.co/TtfxxwZ/Training-Testing-Set.png">
 </p>
 ![Image](https://i.ibb.co/Wy2F6wb/Simple-Lag-Model.png)
 ![Image](https://i.ibb.co/wB9jygY/Single-Point-Random-Walk-Test-Set.png)
