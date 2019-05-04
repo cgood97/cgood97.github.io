@@ -16,7 +16,7 @@ Although this second source is not technically a "research paper," it is a good 
 
 Since the blog post provided a Jupyter Notebook with code and explanation on how to reproduce the experiment, it didn't take too many steps to get everything working. Here are the steps we took (using a Windows machine):
 
-1. Download Repo located at [here](https://github.com/dashee87/blogScripts)
+1. Download Repo located [here](https://github.com/dashee87/blogScripts)
 2. Open Jupyter Notebook titled: 2017-11-20-predicting-cryptocurrency-prices-with-deep-learning located in the Jupyter folder.
 3. Using Anaconda Prompt:<br/>
   a. Install Keras and Tensorflow<br/>
@@ -24,6 +24,12 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
   c. Downgrade Pandas to version 0.23.4<br/>
 4. Install any other libraries using pip that throw an error in the Jupyter Notebook
 5. Uncomment block 37 in Jupyter Notebook
+6. Restart and run Jupyter Notebook
+7. Wait until everything finishes (could take a few hours)
+
+## Results of Original Experiment
+
+
 
 ```markdown
 Syntax highlighted code block
