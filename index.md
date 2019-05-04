@@ -29,7 +29,7 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 
 ## Results of Original Experiment
 
-![alt text](https://github.com/cgood97/cgood97.github.io/blob/master/SimpleLagModel.png)
+![Image](https://github.com/cgood97/cgood97.github.io/blob/master/SimpleLagModel.png)
 
 ```markdown
 Syntax highlighted code block
