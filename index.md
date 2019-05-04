@@ -28,10 +28,10 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 7. Wait until everything finishes (could take a few hours)
 
 ## Results of Original Experiment
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/TtfxxwZ/Training-Testing-Set.png">
 </p>
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/Wy2F6wb/Simple-Lag-Model.png">
 </p>
 <p align="center">
