@@ -1,4 +1,4 @@
-## BACKGROUND
+## Background
 
 We first tried to recreate "Predicting digital asset market based on blockchain activity data" found [here](https://arxiv.org/pdf/1810.06696.pdf).
 
@@ -12,7 +12,18 @@ Although this second source is not technically a "research paper," it is a good 
 
 ## Summary of Original Paper
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Steps to Reproduce Original Experiment
+
+Since the blog post provided a Jupyter Notebook with code and explanation on how to reproduce the experiment, it didn't take too many steps to get everything working. Here are the steps we took (using a Windows machine):
+
+1) Download Repo located at [here](https://github.com/dashee87/blogScripts)
+2) Open Jupyter Notebook titled: 2017-11-20-predicting-cryptocurrency-prices-with-deep-learning located in the Jupyter folder.
+3) Using Anaconda Prompt:
+  a) Install Keras and Tensorflow
+  b) Update Conda
+  c) Downgrade Pandas to version 0.23.4
+4) Install any other libraries using pip that throw an error in the Jupyter Notebook
+5) Uncomment block 37 in Jupyter Notebook
 
 ```markdown
 Syntax highlighted code block
