@@ -85,6 +85,11 @@ Instead of including every chart like above, we chose the most relevant charts t
 <p align="left">
   <img src="https://imgbb.com/"><img src="https://i.ibb.co/ngnSPwQ/Training-Testing-Set-Final.png">
 </p>
+<p align="left">
+  <img src="https://i.ibb.co/Wg6dg99/Training-Error-Final.png">
+</p>
+
+
 
 
 ```markdown
