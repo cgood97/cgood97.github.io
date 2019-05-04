@@ -65,7 +65,7 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
   <img src="https://imgbb.com/"><img src="https://i.ibb.co/dcVy8VL/MAECharts.png">
 </p>
 
-##Difference From Original
+## Difference From Original
 1. Since we ran this experiment almost two years after the original, there was a lot more test data.
 2. Full Interval Random Walk for Ethereum didn't produce correct "actual" data.
 3. Training and Testing Single Timepoint Prediction MAE's for Ethereum were lower (more accurate). Especially on the test set.
@@ -73,7 +73,7 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 5. The 5 Timepoint Predictions seemed more accurate, especially for Ethereum.
 6. Bitcoin and Ethereum 25 Test Set Runs had lower MAE's (more accurate).
 
-##Reflecting on Differences
+## Reflecting on Differences
 ```markdown
 Syntax highlighted code block
 
