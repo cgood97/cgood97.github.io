@@ -18,10 +18,10 @@ Since the blog post provided a Jupyter Notebook with code and explanation on how
 
 1. Download Repo located at [here](https://github.com/dashee87/blogScripts)
 2. Open Jupyter Notebook titled: 2017-11-20-predicting-cryptocurrency-prices-with-deep-learning located in the Jupyter folder.
-3. Using Anaconda Prompt:
-  a. Install Keras and Tensorflow
-  b. Update Conda
-  c. Downgrade Pandas to version 0.23.4
+3. Using Anaconda Prompt:<br/>
+  a. Install Keras and Tensorflow<br/>
+  b. Update Conda<br/>
+  c. Downgrade Pandas to version 0.23.4<br/>
 4. Install any other libraries using pip that throw an error in the Jupyter Notebook
 5. Uncomment block 37 in Jupyter Notebook
 
