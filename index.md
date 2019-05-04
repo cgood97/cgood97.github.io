@@ -88,6 +88,25 @@ Instead of including every chart like above, we chose the most relevant charts t
 <p align="left">
   <img src="https://i.ibb.co/Wg6dg99/Training-Error-Final.png">
 </p>
+<p align="left">
+  <img src="https://i.ibb.co/9sGr5jn/Test-Set-Single-Timepoint-Prediction-Final.png">
+</p>
+<p align="left">
+  <img src="https://i.ibb.co/fdZ2sKf/Test-Set-Single-Timepoint-Prediction-Bitcoin-Final.png">
+</p>
+<p align="left">
+  <img src="https://i.ibb.co/pdFYSRr/Test-Set5-Timepoint-Predictions-Final.png">
+</p>
+<p align="left">
+  <img src="https://i.ibb.co/16QPBr2/MAECharts-Final.png">
+</p>
+
+
+
+
+
+
+
 
 
 
