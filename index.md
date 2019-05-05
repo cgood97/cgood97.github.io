@@ -103,6 +103,7 @@ Instead of including every chart like above, we chose the most relevant charts t
 </p>
 
 ## Explanation of Modified Experiment Result
+Since we now have more data to train on, our chances of overfitting the data decreases. The added diversity of the new train data helps better the fit and as a result, the accuracy improves. As you can see from the charts, the training accuracy has improved, and the test set accuracies for both Ethereum and Bitcoin have also improved. The MAE over the 25 runs for Bitcoin has been improved to less than 0.025 and Ethereum has improved to less than 0.040. Since cryptocurrency prices have steadied after the split date, it is surprisingly accurate since it has been trained on volatility.
 
 ## Other Modifications and Results
 
