@@ -137,15 +137,3 @@ As you can see, the model had a much tougher time training and testing on Tron. 
 
 
 
-
-
-
-
-
-
-
-
-```markdown
-```
-
-
