@@ -117,6 +117,7 @@ Since Ethereum and Bitcoin are both relatively stable cryptocurrencies, we thoug
 3. http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8962155&fileOId=8962156
 4. https://medium.com/datadriveninvestor/predicting-cryptocurrency-prices-with-machine-learning-1b5a711d3937
 5. http://www.eumetrain.org/data/4/451/english/msg/ver_cont_var/uos3/uos3_ko1.htm
+6. https://activewizards.com/blog/bitcoin-price-forecasting-with-deep-learning-algorithms/
 
 
 
