@@ -106,8 +106,18 @@ Instead of including every chart like above, we chose the most relevant charts t
 Since we now have more data to train on, our chances of overfitting the data decreases. The added diversity of the new train data helps better the fit and as a result, the accuracy improves. As you can see from the charts, the training accuracy has improved, and the test set accuracies for both Ethereum and Bitcoin have also improved. The MAE over the 25 runs for Bitcoin has been improved to less than 0.025 and Ethereum has improved to less than 0.040. Since cryptocurrency prices have steadied after the split date, it is surprisingly accurate since it has been trained on volatility.
 
 ## Other Modifications and Results
+Since Ethereum and Bitcoin are both relatively stable cryptocurrencies, we thought it would be a good idea to train and test on a highly volatile cryptocurrency. We chose Tron since it is pretty well known as the top volatile coin. We wanted to see how much different the accuracy of the model runs would be versus the more stable coins. Below are the important charts:
+
+
 
 ## References
+
+1. https://arxiv.org/pdf/1810.06696.pdf
+2. https://www.researchgate.net/publication/329322600_Prediction_of_Cryptocurrency_Returns_using_Machine_Learning
+3. http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8962155&fileOId=8962156
+4. https://medium.com/datadriveninvestor/predicting-cryptocurrency-prices-with-machine-learning-1b5a711d3937
+5. http://www.eumetrain.org/data/4/451/english/msg/ver_cont_var/uos3/uos3_ko1.htm
+
 
 
 
