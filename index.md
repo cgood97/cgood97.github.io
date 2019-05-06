@@ -108,10 +108,24 @@ Since we now have more data to train on, our chances of overfitting the data dec
 ## Other Modifications and Results
 Since Ethereum and Bitcoin are both relatively stable cryptocurrencies, we thought it would be a good idea to train and test on a highly volatile cryptocurrency. We chose Tron since it is pretty well known as the top volatile coin. We wanted to see how much different the accuracy of the model runs would be versus the more stable coins. Below are the important charts:
 
+<p align="left">
+  <img src="https://imgbb.com/"><img src="https://i.ibb.co/HNS9cNV/trontrainingerror.png">
+</p>
+<p align="left">
+  <img src="https://i.ibb.co/yq60WXF/tronsinglewalktestset.png">
+</p>
+<p align="left">
+  <img src="https://i.ibb.co/khwCNnm/tronsingletimepointtestset.png">
+</p>
+<p align="left">
+  <img src="https://i.ibb.co/Y2xPhWf/tron5testset.png">
+</p>
+<p align="left">
+  <img src="https://i.ibb.co/gvbNY3Y/tron25runs.png">
+</p>
 
 
 ## References
-
 1. https://arxiv.org/pdf/1810.06696.pdf
 2. https://www.researchgate.net/publication/329322600_Prediction_of_Cryptocurrency_Returns_using_Machine_Learning
 3. http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8962155&fileOId=8962156
