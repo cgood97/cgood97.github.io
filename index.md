@@ -124,6 +124,8 @@ Since Ethereum and Bitcoin are both relatively stable cryptocurrencies, we thoug
   <img src="https://i.ibb.co/cbK0q1q/tron25runs.png">
 </p>
 
+## Explanation of Other Modifications and Results
+As you can see, the model had a much tougher time training and testing on Tron. The Single Point Random Walk Test Set was very sporadic and different from the other cryptocurrencies tested. The 5 Timepoint Predictions also show many more inaccurate predictions. The overall MAE over 25 runs was also almost twice of that of Bitcoin. Our prediction that LSTM would have a harder time on Tron was validated through this experiment.
 
 ## References
 1. https://arxiv.org/pdf/1810.06696.pdf
