@@ -11,6 +11,12 @@ Although this second source is not technically a "research paper," it is a good 
 
 
 ## Summary of Original Paper
+The original blog uses a Long Short Term Memory (LSTM) model to predict the price of Bitcoin and Ethereum using data pulled from coinmarketcap.com. The model was trained on data from before June 1st 2017 and tested on the data after.
+
+The training of the model was done by feeding it windows of data containing 10 days worth of data at a time. The data is normalized between -1 and 1 before being used as inputs. Using 20 neurons in the LSTM layer and 50 epochs, the model achieved a mean absolute error (MAE) of 0.0531 on the test set for Ethereum, and 0.0392 on the test set for Bitcoin in single point predictions. The model also tends to overestimate the value in general and has difficulties predicting spikes and troughs. There was also a test set for 5 timepoint predictions that showed less appealing results but showed some promising behavior in that it was able to predict a spike in price.
+
+The blog also discusses simpler models such as a lag model and random walk model to compare to the LSTM model and warn against how easy it could be to generate a visually appealing model with no substance behind it to back it up. The author ends the blog by offering some skepticism about using deep learning to predict cryptocurrency prices and suggesting some possible changes to improve the model.
+
 
 ## Steps to Reproduce Original Experiment
 
